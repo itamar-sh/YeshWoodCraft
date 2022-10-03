@@ -18,6 +18,9 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+head {
+  font-family: 'Open Sans Hebrew Condensed', serif;
+}
 
 body {
   color: #343434;
