@@ -6,6 +6,7 @@ https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
 #2F3061 - blue dark
 #FFE66D - yellow
 #A1C6D7 - blue light
+#dbd1a9 - brown light
 */
 
 
@@ -76,7 +77,7 @@ h2 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #2F3061;
+  background: #dbd1a9;
   color: #F7FFF7;
 }
 
