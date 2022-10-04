@@ -7,6 +7,7 @@ https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
 #FFE66D - yellow
 #A1C6D7 - blue light
 #dbd1a9 - brown light
+#DEB887 - burly wood
 */
 
 
@@ -91,7 +92,7 @@ header {
 /* Projects
 ------------------------------------*/
 .projects {
-  background: #F7FFF7;
+  background: #DEB887;
 }
 .projects a {
   color: #2F3061;
