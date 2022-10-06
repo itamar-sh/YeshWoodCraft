@@ -18,6 +18,7 @@ html {
 }
 *, *:before, *:after {
   box-sizing: inherit;
+  direction: ltr;
 }
 head {
   <style>
@@ -83,7 +84,7 @@ h2 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #dbd1a9;
+  background: #DEB887;
   color: #F7FFF7;
   font-family: 'Amatic SC', cursive;
 }
@@ -92,7 +93,8 @@ header {
 /* Projects
 ------------------------------------*/
 .projects {
-  background: #DEB887;
+  background: #F7FFF7;
+  
 }
 .projects a {
   color: #2F3061;
