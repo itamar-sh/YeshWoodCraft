@@ -116,6 +116,18 @@ header {
   margin-top: 0;
 }
 
+/* Project1
+------------------------------------*/
+.project1 {
+  background-image: url(../images/WhatsApp Image 2022-10-03 at 17.54.47.jpeg);
+  background-position: top right;
+  background-size: cover;
+  padding-bottom: 100px;
+}
+.project1 p {
+  width: 60%;
+}
+
 
 
 /* Work Experience
